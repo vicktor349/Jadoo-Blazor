@@ -1,0 +1,14 @@
+﻿<p class="@ButtonClass" style="@ButtonStyle">
+    @ButtonText
+</p>
+
+
+
+@code {
+    [Parameter]
+    public string ButtonText { get; set; } = string.Empty;
+    [Parameter] 
+    public string ButtonClass { get; set; } = string.Empty;
+    [Parameter]
+    public string ButtonStyle { get; set; } = string.Empty;
+}

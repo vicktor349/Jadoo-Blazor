@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Jadoo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Jadoo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\decore.png",
+      "PackagePath": "staticwebassets\\images\\decore.png"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\heroimage.png",
+      "PackagePath": "staticwebassets\\images\\heroimage.png"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\playbutton.svg",
+      "PackagePath": "staticwebassets\\images\\playbutton.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Jadoo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Jadoo.props",
+      "PackagePath": "build\\Jadoo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Jadoo.props",
+      "PackagePath": "buildMultiTargeting\\Jadoo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Jadoo.props",
+      "PackagePath": "buildTransitive\\Jadoo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
