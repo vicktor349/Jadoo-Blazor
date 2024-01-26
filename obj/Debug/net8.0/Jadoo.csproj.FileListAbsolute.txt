@@ -26,3 +26,4 @@ C:\Users\ayomi\Documents\programming\Jadoo\obj\Debug\net8.0\refint\Jadoo.dll
 C:\Users\ayomi\Documents\programming\Jadoo\obj\Debug\net8.0\Jadoo.pdb
 C:\Users\ayomi\Documents\programming\Jadoo\obj\Debug\net8.0\Jadoo.genruntimeconfig.cache
 C:\Users\ayomi\Documents\programming\Jadoo\obj\Debug\net8.0\ref\Jadoo.dll
+C:\Users\ayomi\Documents\programming\Jadoo\obj\Debug\net8.0\Jadoo.sourcelink.json

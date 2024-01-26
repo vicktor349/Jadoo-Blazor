@@ -1,13 +1,14 @@
-﻿<p class="@ButtonClass" style="@ButtonStyle">
-    @ButtonText
-</p>
-
+﻿<div style="width: 10.625rem">
+    <p class="@ButtonClass" style="@ButtonStyle">
+        @ButtonText
+    </p>
+</div>
 
 
 @code {
     [Parameter]
     public string ButtonText { get; set; } = string.Empty;
-    [Parameter] 
+    [Parameter]
     public string ButtonClass { get; set; } = string.Empty;
     [Parameter]
     public string ButtonStyle { get; set; } = string.Empty;

@@ -11,9 +11,6 @@ html, body {
 .banner-writing, .bottom-banner{
     font-family: 'Poppins', sans-serif;
 }
-.bottom-banner{
-    cursor: pointer;
-}
 .travel, .live, .life{
     font-family: 'Volkhov', serif;
 }
