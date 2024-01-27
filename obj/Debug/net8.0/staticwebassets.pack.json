@@ -21,6 +21,18 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\Rectangle 159.svg",
+      "PackagePath": "staticwebassets\\images\\Rectangle 159.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\airplane.svg",
+      "PackagePath": "staticwebassets\\images\\airplane.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\customization.svg",
+      "PackagePath": "staticwebassets\\images\\customization.svg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\decore.png",
       "PackagePath": "staticwebassets\\images\\decore.png"
     },
@@ -33,8 +45,16 @@
       "PackagePath": "staticwebassets\\images\\logo.svg"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\microphone.svg",
+      "PackagePath": "staticwebassets\\images\\microphone.svg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\playbutton.svg",
       "PackagePath": "staticwebassets\\images\\playbutton.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\satallite.svg",
+      "PackagePath": "staticwebassets\\images\\satallite.svg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Jadoo.Microsoft.AspNetCore.StaticWebAssets.props",

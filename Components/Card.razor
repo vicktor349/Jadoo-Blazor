@@ -1,0 +1,22 @@
+﻿<div style="width: 16.6875rem; height: 19.625rem; z-index:1000;" class="card-component">
+    <div class="w-100">
+        <img src="@ImageSource" alt="Category Image" class="ms-5" style="z-index: 1010;" />
+    </div>
+    <div>
+        <h3 class="text-center title" style="font-size: 1.25rem;">@Title</h3>
+        <p class="text-center text" style="font-size: 1rem;font-weight: 400; color:#5E6282;line-height: 1.625rem;">
+            @Text</p>
+    </div>
+</div>
+
+
+@code {
+    [Parameter]
+    public string ImageSource { get; set; } = string.Empty;
+    [Parameter]
+    public string Title { get; set; } = string.Empty;
+    [Parameter]
+    public string Text { get; set; } = string.Empty;
+    [Parameter]
+    public string Class { get; set; } = string.Empty;
+}
