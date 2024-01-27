@@ -1,0 +1,31 @@
+﻿<div style="border-radius: 1.5rem;background: var(--white, #FFF); z-index: 1000; cursor:pointer;
+box-shadow: 0px 1.852px 3.148px 0px rgba(0, 0, 0, 0.00), 0px 8.148px 6.519px 0px rgba(0, 0, 0, 0.01), 0px 20px 13px 0px rgba(0, 0, 0, 0.01), 0px 38.519px 25.481px 0px rgba(0, 0, 0, 0.01), 0px 64.815px 46.852px 0px rgba(0, 0, 0, 0.02), 0px 100px 80px 0px rgba(0, 0, 0, 0.02);
+">
+    <img src="@ImageSource" alt="Hero Banner Image"
+        style="width: 19.625rem; height: 20rem; border-radius: 1.5rem 1.5rem 0 0;" />
+    <div class="mx-4">
+        <div class="d-flex my-4">
+            <span>
+                @Location
+            </span>
+            <span class="ms-auto">@Price</span>
+        </div>
+        <div class="d-flex align-items-center mb-5">
+            <img src="@Navigation" />
+            <span class="ms-3">@TripDays</span>
+        </div>
+    </div>
+</div>
+
+
+@code {
+    private string Navigation = "images/navigation.svg";
+    [Parameter]
+    public string ImageSource { get; set; } = string.Empty;
+    [Parameter]
+    public string Location { get; set; } = string.Empty;
+    [Parameter]
+    public string Price { get; set; } = string.Empty;
+    [Parameter]
+    public string TripDays { get; set; } = string.Empty;
+}

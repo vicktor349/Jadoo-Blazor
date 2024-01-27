@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vUI1uCYu15DyH/vb1UdmD5YzyKz7MoKbvKUXg0YaS6o=",
+  "Hash": "JCOHGYRyyprpWbZHkgO6zoC3n8Z0m7bN1yJRjpL47SA=",
   "Source": "Jadoo",
   "BasePath": "_content/Jadoo",
   "Mode": "Default",
@@ -150,6 +150,44 @@
       "OriginalItemSpec": "wwwroot\\images\\airplane.svg"
     },
     {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\bigben.jpg",
+      "SourceId": "Jadoo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\",
+      "BasePath": "_content/Jadoo",
+      "RelativePath": "images/bigben.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bigben.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\colosseum.jpg",
+      "SourceId": "Jadoo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\",
+      "BasePath": "_content/Jadoo",
+      "RelativePath": "images/colosseum.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\colosseum.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\customization.svg",
       "SourceId": "Jadoo",
       "SourceType": "Discovered",
@@ -245,6 +283,25 @@
       "OriginalItemSpec": "wwwroot\\images\\microphone.svg"
     },
     {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\navigation.svg",
+      "SourceId": "Jadoo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\",
+      "BasePath": "_content/Jadoo",
+      "RelativePath": "images/navigation.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\navigation.svg"
+    },
+    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\playbutton.svg",
       "SourceId": "Jadoo",
       "SourceType": "Discovered",
@@ -262,6 +319,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\playbutton.svg"
+    },
+    {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\presidentialtower.jpg",
+      "SourceId": "Jadoo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\",
+      "BasePath": "_content/Jadoo",
+      "RelativePath": "images/presidentialtower.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\presidentialtower.jpg"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\Rectangle 159.svg",
@@ -300,6 +376,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\satallite.svg"
+    },
+    {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\springdecore.svg",
+      "SourceId": "Jadoo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\",
+      "BasePath": "_content/Jadoo",
+      "RelativePath": "images/springdecore.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\springdecore.svg"
     }
   ]
 }

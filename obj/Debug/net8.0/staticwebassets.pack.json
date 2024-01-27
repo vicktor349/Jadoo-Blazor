@@ -29,6 +29,14 @@
       "PackagePath": "staticwebassets\\images\\airplane.svg"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\bigben.jpg",
+      "PackagePath": "staticwebassets\\images\\bigben.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\colosseum.jpg",
+      "PackagePath": "staticwebassets\\images\\colosseum.jpg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\customization.svg",
       "PackagePath": "staticwebassets\\images\\customization.svg"
     },
@@ -49,12 +57,24 @@
       "PackagePath": "staticwebassets\\images\\microphone.svg"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\navigation.svg",
+      "PackagePath": "staticwebassets\\images\\navigation.svg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\playbutton.svg",
       "PackagePath": "staticwebassets\\images\\playbutton.svg"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\presidentialtower.jpg",
+      "PackagePath": "staticwebassets\\images\\presidentialtower.jpg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\satallite.svg",
       "PackagePath": "staticwebassets\\images\\satallite.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\springdecore.svg",
+      "PackagePath": "staticwebassets\\images\\springdecore.svg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Jadoo.Microsoft.AspNetCore.StaticWebAssets.props",
