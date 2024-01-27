@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Jadoo
 build_property.RootNamespace = Jadoo
-build_property.ProjectDir = C:\Users\ayomi\Documents\programming\Jadoo\
+build_property.ProjectDir = c:\Users\ayomi\Documents\programming\Jadoo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ayomi\Documents\programming\Jadoo
+build_property.MSBuildProjectDirectory = c:\Users\ayomi\Documents\programming\Jadoo
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/App.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/Button.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/Button.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCdXR0b24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/Card.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/Card.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/Category.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/Category.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXRlZ29yeS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/DestinationCard.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/DestinationCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5hdGlvbkNhcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/Destinations.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/Destinations.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5hdGlvbnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/HeroBanner.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/HeroBanner.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZXJvQmFubmVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/Layout/MainLayout.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/Pages/Home.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/Routes.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/_Imports.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/Jadoo/Components/Layout/NavMenu.razor]
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-z0oj7k5iqi
