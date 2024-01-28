@@ -1,0 +1,32 @@
+.footer-logo{
+    color: var(--1st, #181E4B);
+    font-family: Poppins;
+    font-size: 2.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.booking{
+    color: var(--TEXT-CLR, #5E6282);
+    font-family: Poppins;
+    font-size: 0.8125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 124.5%;
+}
+.company, .contact, .more{
+    color: var(--black, #080809);
+    font-family: Poppins;
+    font-size: 1.3125rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 124.5%;
+}
+.content{
+    color: var(--TEXT-CLR, #5E6282);
+    font-family: Poppins;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 124.5%;
+}
