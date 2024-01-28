@@ -1,6 +1,6 @@
 .newsletter-body{
     height: 25.4375rem;
-    border-radius: 1.25rem 8.0625rem 1.25rem 1.25rem;
+    border-radius: 8.0625rem 1.25rem 1.25rem 1.25rem;
     background: var(--light-color, #f4f3f8);
     display: grid;
     place-items: center;
