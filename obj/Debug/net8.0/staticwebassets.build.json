@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gCTuTgDezlMR9tYrrlWaPuYmsMFBcgmq+vEzzeGUQ2Q=",
+  "Hash": "Knce3xKYFXUkaPNAUvTixmbGsNhR/l3PmggLcptrA/Y=",
   "Source": "Jadoo",
   "BasePath": "_content/Jadoo",
   "Mode": "Default",
@@ -566,6 +566,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\springdecore.svg"
+    },
+    {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\testimonial.png",
+      "SourceId": "Jadoo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\",
+      "BasePath": "_content/Jadoo",
+      "RelativePath": "images/testimonial.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\testimonial.png"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\transportation.svg",
