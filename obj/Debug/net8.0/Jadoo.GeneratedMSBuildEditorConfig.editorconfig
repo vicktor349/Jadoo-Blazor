@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/BookTrip.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCb29rVHJpcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/ayomi/Documents/programming/Jadoo/Components/Button.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCdXR0b24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -56,6 +60,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [c:/Users/ayomi/Documents/programming/Jadoo/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/Steps.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdGVwcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ayomi/Documents/programming/Jadoo/Components/TripCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmlwQ2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/ayomi/Documents/programming/Jadoo/Components/_Imports.razor]

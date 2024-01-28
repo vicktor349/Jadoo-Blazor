@@ -1,0 +1,16 @@
+﻿<div class="d-flex my-5" style="width:25rem">
+    <img src="@ImageSource" alt="destination icon" />
+    <div style="color: var(--TEXT-CLR, #5E6282); font-family: Poppins; font-size: 1rem;" class="d-grid ms-4">
+        <span style="font-weight: 700;" class="mb-1">@Title</span>
+        <span style="font-weight: 400; ">@Text</span>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string ImageSource { get; set; } = string.Empty;
+    [Parameter]
+    public string Title { get; set; } = string.Empty;
+    [Parameter]
+    public string Text { get; set; } = string.Empty;
+}

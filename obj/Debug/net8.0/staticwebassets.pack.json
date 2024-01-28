@@ -33,6 +33,14 @@
       "PackagePath": "staticwebassets\\images\\bigben.jpg"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\building.svg",
+      "PackagePath": "staticwebassets\\images\\building.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\choosedestination.svg",
+      "PackagePath": "staticwebassets\\images\\choosedestination.svg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\colosseum.jpg",
       "PackagePath": "staticwebassets\\images\\colosseum.jpg"
     },
@@ -45,12 +53,28 @@
       "PackagePath": "staticwebassets\\images\\decore.png"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\greece.jpg",
+      "PackagePath": "staticwebassets\\images\\greece.jpg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\heroimage.png",
       "PackagePath": "staticwebassets\\images\\heroimage.png"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\leaf.svg",
+      "PackagePath": "staticwebassets\\images\\leaf.svg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\logo.svg",
       "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\makepayment.svg",
+      "PackagePath": "staticwebassets\\images\\makepayment.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\map.svg",
+      "PackagePath": "staticwebassets\\images\\map.svg"
     },
     {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\microphone.svg",
@@ -69,12 +93,28 @@
       "PackagePath": "staticwebassets\\images\\presidentialtower.jpg"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\progress.svg",
+      "PackagePath": "staticwebassets\\images\\progress.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\rome.png",
+      "PackagePath": "staticwebassets\\images\\rome.png"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\satallite.svg",
       "PackagePath": "staticwebassets\\images\\satallite.svg"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\send.svg",
+      "PackagePath": "staticwebassets\\images\\send.svg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\springdecore.svg",
       "PackagePath": "staticwebassets\\images\\springdecore.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\transportation.svg",
+      "PackagePath": "staticwebassets\\images\\transportation.svg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Jadoo.Microsoft.AspNetCore.StaticWebAssets.props",
