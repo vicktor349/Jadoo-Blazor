@@ -1,0 +1,23 @@
+.newsletter-body{
+    height: 25.4375rem;
+    border-radius: 1.25rem 8.0625rem 1.25rem 1.25rem;
+    background: var(--light-color, #f4f3f8);
+    display: grid;
+    place-items: center;
+}
+.subscribe-text{
+    color: var(--TEXT-CLR, #5E6282);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 2.0625rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 3.375rem;
+}
+.newsletter-button{
+    color: white;
+    background: var(--gradient, linear-gradient(180deg, #FF946D 0%, #FF7D68 100%));
+    width: 11.25rem;
+    cursor: pointer;
+    user-select: none;
+}
