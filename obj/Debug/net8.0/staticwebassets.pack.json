@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\css\\newsletter.css",
+      "PackagePath": "staticwebassets\\css\\newsletter.css"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
@@ -131,6 +135,10 @@
     {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\springdecore.svg",
       "PackagePath": "staticwebassets\\images\\springdecore.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\telegram.svg",
+      "PackagePath": "staticwebassets\\images\\telegram.svg"
     },
     {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\testimonial.png",

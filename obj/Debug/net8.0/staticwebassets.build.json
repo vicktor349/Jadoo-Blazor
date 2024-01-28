@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QcsgDyE0uqB4TbCBLDPzJDtkYD7kEI1D7ievxqnsSP4=",
+  "Hash": "GEsjLc7Tin1tI41SBJwXIGb13V/DV1mL+CA1eib5GMQ=",
   "Source": "Jadoo",
   "BasePath": "_content/Jadoo",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\css\\newsletter.css",
+      "SourceId": "Jadoo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\",
+      "BasePath": "_content/Jadoo",
+      "RelativePath": "css/newsletter.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\newsletter.css"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\favicon.png",
@@ -661,6 +680,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\springdecore.svg"
+    },
+    {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\telegram.svg",
+      "SourceId": "Jadoo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\",
+      "BasePath": "_content/Jadoo",
+      "RelativePath": "images/telegram.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\telegram.svg"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\testimonial.png",
