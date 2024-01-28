@@ -29,6 +29,14 @@
       "PackagePath": "staticwebassets\\images\\airplane.svg"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\alitalia.svg",
+      "PackagePath": "staticwebassets\\images\\alitalia.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\axon.svg",
+      "PackagePath": "staticwebassets\\images\\axon.svg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\bigben.jpg",
       "PackagePath": "staticwebassets\\images\\bigben.jpg"
     },
@@ -53,12 +61,20 @@
       "PackagePath": "staticwebassets\\images\\decore.png"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\expedia.svg",
+      "PackagePath": "staticwebassets\\images\\expedia.svg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\greece.jpg",
       "PackagePath": "staticwebassets\\images\\greece.jpg"
     },
     {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\heroimage.png",
       "PackagePath": "staticwebassets\\images\\heroimage.png"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\jetstar.svg",
+      "PackagePath": "staticwebassets\\images\\jetstar.svg"
     },
     {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\leaf.svg",
@@ -95,6 +111,10 @@
     {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\progress.svg",
       "PackagePath": "staticwebassets\\images\\progress.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\qantas.svg",
+      "PackagePath": "staticwebassets\\images\\qantas.svg"
     },
     {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\rome.png",
