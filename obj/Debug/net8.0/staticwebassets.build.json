@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GEsjLc7Tin1tI41SBJwXIGb13V/DV1mL+CA1eib5GMQ=",
+  "Hash": "S/P8jSdyclv/CbdYPApOBaPrxxCvdYxQZ1yScKBy+yw=",
   "Source": "Jadoo",
   "BasePath": "_content/Jadoo",
   "Mode": "Default",
@@ -150,6 +150,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\Footer.css",
+      "SourceId": "Jadoo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\",
+      "BasePath": "_content/Jadoo",
+      "RelativePath": "Footer.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Footer.css"
+    },
+    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\airplane.svg",
       "SourceId": "Jadoo",
       "SourceType": "Discovered",
@@ -245,6 +264,25 @@
       "OriginalItemSpec": "wwwroot\\images\\building.svg"
     },
     {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\burgerIcon.svg",
+      "SourceId": "Jadoo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\",
+      "BasePath": "_content/Jadoo",
+      "RelativePath": "images/burgerIcon.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\burgerIcon.svg"
+    },
+    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\choosedestination.svg",
       "SourceId": "Jadoo",
       "SourceType": "Discovered",
@@ -262,6 +300,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\choosedestination.svg"
+    },
+    {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\closeIcon.svg",
+      "SourceId": "Jadoo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\",
+      "BasePath": "_content/Jadoo",
+      "RelativePath": "images/closeIcon.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\closeIcon.svg"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\colosseum.jpg",

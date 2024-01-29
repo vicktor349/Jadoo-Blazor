@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jadoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1867e268fb4e34374cdab2bef6b8ef276234772f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8915ec2ff43413e3151959e277a5b7119133e0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jadoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jadoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

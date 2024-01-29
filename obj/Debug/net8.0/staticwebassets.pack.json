@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Jadoo.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\Footer.css",
+      "PackagePath": "staticwebassets\\Footer.css"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
@@ -49,8 +53,16 @@
       "PackagePath": "staticwebassets\\images\\building.svg"
     },
     {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\burgerIcon.svg",
+      "PackagePath": "staticwebassets\\images\\burgerIcon.svg"
+    },
+    {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\choosedestination.svg",
       "PackagePath": "staticwebassets\\images\\choosedestination.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\closeIcon.svg",
+      "PackagePath": "staticwebassets\\images\\closeIcon.svg"
     },
     {
       "Id": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\wwwroot\\images\\colosseum.jpg",
