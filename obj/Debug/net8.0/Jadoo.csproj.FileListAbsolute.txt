@@ -27,3 +27,9 @@ C:\Users\ayomi\Documents\programming\Jadoo\obj\Debug\net8.0\Jadoo.pdb
 C:\Users\ayomi\Documents\programming\Jadoo\obj\Debug\net8.0\Jadoo.genruntimeconfig.cache
 C:\Users\ayomi\Documents\programming\Jadoo\obj\Debug\net8.0\ref\Jadoo.dll
 C:\Users\ayomi\Documents\programming\Jadoo\obj\Debug\net8.0\Jadoo.sourcelink.json
+C:\Users\ayomi\Documents\programming\Jadoo\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ayomi\Documents\programming\Jadoo\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\ayomi\Documents\programming\Jadoo\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\ayomi\Documents\programming\Jadoo\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ayomi\Documents\programming\Jadoo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ayomi\Documents\programming\Jadoo\obj\Debug\net8.0\Jadoo.csproj.CopyComplete
