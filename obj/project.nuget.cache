@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LdU3UT0FZZ5Zycy72dVf+PdNBEGJmOM3DUAmLl90G8M9JGEwTU4RVObYHRDdCZYcV2lMLJ/O4gz4pqChH/Yfrw==",
+  "dgSpecHash": "HieMXHhG7/UEcj3GdG9pgc3YYHEY5mx9sJLXCB9/DuT2hraazPebYlUMbWwcapHBBv0t0pPY7EjbMDkfnb7zlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\Jadoo.csproj",
+  "projectFilePath": "c:\\Users\\ayomi\\Documents\\programming\\Jadoo\\Jadoo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ayomi\\.nuget\\packages\\auth0.aspnetcore.authentication\\1.4.1\\auth0.aspnetcore.authentication.1.4.1.nupkg.sha512",
     "C:\\Users\\ayomi\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\8.0.1\\microsoft.aspnetcore.authentication.openidconnect.8.0.1.nupkg.sha512",

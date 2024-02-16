@@ -798,11 +798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\Jadoo.csproj",
+      "projectUniqueName": "c:\\Users\\ayomi\\Documents\\programming\\Jadoo\\Jadoo.csproj",
       "projectName": "Jadoo",
-      "projectPath": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\Jadoo.csproj",
+      "projectPath": "c:\\Users\\ayomi\\Documents\\programming\\Jadoo\\Jadoo.csproj",
       "packagesPath": "C:\\Users\\ayomi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayomi\\Documents\\programming\\Jadoo\\obj\\",
+      "outputPath": "c:\\Users\\ayomi\\Documents\\programming\\Jadoo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ayomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
